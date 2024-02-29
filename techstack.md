@@ -3,13 +3,13 @@
 ## Tech Stack
 dazeb/gatsby-test is built on the following main stack:
 
-- [Google Analytics](http://www.google.com/analytics) – General Analytics
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Gatsby](https://www.gatsbyjs.org) – Static Site Generators
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [Prettier](https://prettier.io/) – Code Review
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Google Analytics](http://www.google.com/analytics) – General Analytics
+- [Gatsby](https://www.gatsbyjs.org) – Static Site Generators
 - [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
@@ -20,13 +20,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 dazeb/gatsby-test is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' alt='Google Analytics'/> [Google Analytics](http://www.google.com/analytics) – General Analytics
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/5472/default_189db484e0770a6101c6a70f0ef0172bc0f8de37.png' alt='Gatsby'/> [Gatsby](https://www.gatsbyjs.org) – Static Site Generators
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' alt='Google Analytics'/> [Google Analytics](http://www.google.com/analytics) – General Analytics
+- <img width='25' height='25' src='https://img.stackshare.io/service/5472/default_189db484e0770a6101c6a70f0ef0172bc0f8de37.png' alt='Gatsby'/> [Gatsby](https://www.gatsbyjs.org) – Static Site Generators
 - <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dazeb/gatsby-test](https://github.com/dazeb/gatsby-test)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|01/11/24 <br/>Report generated|
+|19<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
